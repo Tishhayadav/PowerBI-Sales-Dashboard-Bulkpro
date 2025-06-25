@@ -1,0 +1,60 @@
+
+## 📌 Problem Statement
+
+Bulkpro noticed a significant **drop in orders from the Platinum category**. The management wanted to understand:
+
+- When did the decline start?
+- Which region or product types are affected most?
+- Are other categories performing better?
+
+---
+
+## 🔍 Data Sources
+
+- `orders.csv` — Contains order details with category, region, quantity, etc.
+- `products.csv` — Contains product names and pricing
+
+---
+
+## 📈 Dashboard Features
+
+- 📆 Time-series analysis of order trends
+- 🗂 Category-wise sales breakdown
+- 🌍 Region-wise sales distribution
+- 🔎 Focus on Platinum category vs others
+- 📌 Filters for date, region, and category
+
+---
+
+## 🧠 Key Insights
+
+- Platinum category sales started declining in Q2 2022
+- Southern region showed the biggest drop
+- Gold category is growing steadily during the same time
+
+---
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- DAX
+- Excel (for data cleaning)
+
+---
+
+
+
+---
+
+## 📎 How to Use
+
+1. Open `Bulkpro_Sales_Dashboard.pbix` using Power BI Desktop
+2. Explore filters and visualizations
+3. Modify dataset by replacing CSVs in the `/Data` folder
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by [Tishha Yadav](https://github.com/Tishhayadav)  
+Feel free to connect on LinkedIn or reach out for any queries!
